@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "package": "com.zacharybarbanell.sand.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ServerLevelMixin"
+  ]
+}
